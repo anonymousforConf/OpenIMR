@@ -14,5 +14,5 @@ Specifically, the repository is organized as follows:
  
 * `util.py` is used for loading and pre-processing the dataset.
 
-* `train_ours.py` is used for implement the pipeline of OpenIMR.
+* `train_ours.py` is used for implementing the pipeline of OpenIMR.
  
