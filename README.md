@@ -12,7 +12,7 @@ Specifically, the repository is organized as follows:
 
 * `networks/` contains the implementation of a GAT backbone.
  
-* `util.py` is used for loading and pre-processing the dataset.
+* `util.py` is used for loading and pre-processing the dataset, and also includes the functions for computing metrics.
 
 * `train_ours.py` is used for implementing the pipeline of OpenIMR.
  
